@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8b2e0cf6-469e-2ddb-b0cb-ea8eedf7c1fe
 resourcetype: Document
 title: lec26.pdf
 uid: 13a881fd-64fb-49de-841a-ab13dca8c860

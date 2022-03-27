@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8b2e0cf6-469e-2ddb-b0cb-ea8eedf7c1fe
 resourcetype: Document
 title: lec11machiavelli.pdf
 uid: 84b5866e-93b4-f073-fe0d-4bfd637a49b0
