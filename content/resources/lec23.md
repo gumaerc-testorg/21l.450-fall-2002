@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-450-literature-and-ethical-values-fall-2002/c6388e68a8aa83d551733de1312926d3_lec23.pdf
+file: /courses/21l-450-literature-and-ethical-values-fall-2002/c6388e68a8aa83d551733de1312926d3_lec23.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
