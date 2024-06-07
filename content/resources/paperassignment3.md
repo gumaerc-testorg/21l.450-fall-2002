@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Paper Asiignments: Third Paper Assignment'
 file: /courses/21l-450-literature-and-ethical-values-fall-2002/5c6138ae3f16d5d830c98f8e1dca9273_paperassignment3.pdf
+file_size: 107590
 file_type: application/pdf
 learning_resource_types:
 - Assignments

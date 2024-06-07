@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21l-450-literature-and-ethical-values-fall-2002/c6388e68a8aa83d551733de1312926d3_lec23.pdf
+file_size: 295360
 file_type: application/pdf
 learning_resource_types:
 - Readings
