@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture #2 - Sophocles, Antigone'
 file: /courses/21l-450-literature-and-ethical-values-fall-2002/939f129ae69def526fcf56be41667052_lec2.pdf
+file_size: 88879
 file_type: application/pdf
 learning_resource_types:
 - Readings
