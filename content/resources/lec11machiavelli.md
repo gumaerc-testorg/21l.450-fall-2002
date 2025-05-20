@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture #11 - Machiavelli, excerpt from The Prince. Shakespeare, Julius
   Caesar.'
-file: /ol-ocw-studio-app/courses/21l-450-literature-and-ethical-values-fall-2002/84b5866e93b4f073fe0d4bfd637a49b0_lec11machiavelli.pdf
+file: /courses/21l-450-literature-and-ethical-values-fall-2002/84b5866e93b4f073fe0d4bfd637a49b0_lec11machiavelli.pdf
 file_size: 162447
 file_type: application/pdf
 learning_resource_types:
