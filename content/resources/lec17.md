@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-450-literature-and-ethical-values-fall-2002/24bed9826c4e89be0d200f41f4a5d645_lec17.pdf
+file: /courses/21l-450-literature-and-ethical-values-fall-2002/24bed9826c4e89be0d200f41f4a5d645_lec17.pdf
 file_size: 128943
 file_type: application/pdf
 learning_resource_types:
